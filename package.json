@@ -9,7 +9,9 @@
   },
   "private": true,
   "dependencies": {
+    "@types/supertest": "^2.0.11",
     "express": "4.17.1",
+    "supertest": "^6.1.6",
     "tslib": "^2.0.0"
   },
   "devDependencies": {
